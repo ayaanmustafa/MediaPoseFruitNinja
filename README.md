@@ -1,6 +1,6 @@
 # Fruit Ninja Hand Tracker 🍎
 
-Hey there! Welcome to **Fruit Ninja Hand Tracker**, a super fun Python-based game that brings the classic Fruit Ninja experience to life using your webcam and hand gestures. Instead of a touchscreen, you'll slice fruits with your finger movements tracked in real-time. It's like magic, but with code! 😄
+Hey there! Welcome to **Fruit Ninja Hand Tracker**, a super fun Python-based game that brings the classic Fruit Ninja experience to life using your webcam and hand gestures. Instead of a touchscreen, you'll slice fruits with your finger movements tracked in real-time.
 
 This project uses MediaPipe for hand landmark detection, OpenCV for video processing, and some physics to make the fruits bounce around realistically. Perfect for a quick gaming session or as a cool demo of computer vision.
 
